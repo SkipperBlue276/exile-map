@@ -1,0 +1,807 @@
+{
+    "opportunities": {
+        "connections-licenses": [
+            "Connection: Underworld",
+            "Official Connection",
+            "Connection: Holy Man",
+            "Connection: Radicals",
+            "Connection: Ruler",
+            "Import Licence",
+            "Medical Credentials"
+        ],
+        "spaces": [
+            "Discrete Office",
+            "Quiet Warehouse",
+            "Secluded Villa",
+            "Grand Townhouse"
+        ],
+        "times": [
+            "Dawn",
+            "Sunset",
+            "Night"
+        ],
+        "distractions": {
+            "hours": [
+                "The Flowermaker's Shadow",
+                "The Horned-Axe's Shadow",
+                "The Wolf Divided's Shadow"
+            ],
+            "environments": [
+                "Freezing Winds",
+                "The Sea",
+                "Trembling Heat"
+            ],
+            "misc": [
+                "Cats",
+                "Faith",
+                "Heights"
+            ]
+        }
+    },
+    "destinations": {
+        "alexandria": {
+            "name": "Alexandria",
+            "reached-from": [
+                "baghdad",
+                "candia-heraklion",
+                "istanbul"
+            ],
+            "discreet-contacts": [
+                "baghdad",
+                "candia-heraklion",
+                "istanbul",
+                "hermitage-of-the-scythe"
+            ],
+            "hasty-contacts": [],
+            "arrival": "the-invisible-serapeum",
+            "maps-edge": false,
+            "remote": false,
+            "troubled": false,
+            "shrine": "lionsmith",
+            "ally": "",
+            "caper": "the-invisible-serapeum",
+            "opportunities": {
+                "shrine-name": "Anvil of the Bull",
+                "connections-licenses": [
+                    0,
+                    1,
+                    2,
+                    5
+                ],
+                "spaces": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "items": [
+                    "mutilated-manuscript",
+                    "drinkers-knife",
+                    "profane-weapon"
+                ],
+                "times": [
+                    "dawn",
+                    "night"
+                ],
+                "hour-distractions": [],
+                "environmental-distractions": [
+                    "trembling-heat",
+                    "sea"
+                ],
+                "misc-distractions": [
+                    "cats",
+                    "faith"
+                ]
+            }
+        },
+        "algiers": {
+            "name": "Algiers",
+            "reached-from": [
+                "avignon",
+                "marrakech",
+                "tripoli",
+                "valletta"
+            ],
+            "discreet-contacts": [
+                "avignon",
+                "marrakech",
+                "tripoli",
+                "valletta",
+                "the-pentapolis"
+            ],
+            "hasty-contacts": [
+                "avignon",
+                "marrakech",
+                "tripoli",
+                "valletta",
+                "the-pentapolis"
+            ],
+            "arrival": "Connection: Underworld",
+            "maps-edge": false,
+            "remote": false,
+            "troubled": true,
+            "shrine": "lionsmith",
+            "ally": "",
+            "caper": "",
+            "opportunities": {
+                "shrine-name": "Skaptodon Tomb",
+                "connections-licenses": [
+                    "Official Connection",
+                    "Connection: Radicals",
+                    "Connection: Underworld",
+                    "Import Licence"
+                ],
+                "spaces": [
+                    "Discrete Office",
+                    "Quiet Warehouse",
+                    "Grand Townhouse",
+                    "Secluded Villa"
+                ],
+                "items": [
+                    "mutilated-manuscript",
+                    "drinkers-knife",
+                    "profane-weapon"
+                ],
+                "times": [
+                    "Dawn"
+                ],
+                "distractions": {
+                    "hours": [],
+                    "environments": [
+                        "Trembling Heat",
+                        "The Sea"
+                    ],
+                    "misc": [
+                        "Cats",
+                        "Heights"
+                    ]
+                }
+            }
+        },
+        "amsterdam": {
+            "name": "Amsterdam",
+            "reached-from": [
+                "rhenish-aachen",
+                "london",
+                "rostock",
+                "nizhny-novgorod-in-flames"
+            ],
+            "discreet-contacts": [
+                "rhenish-aachen",
+                "london",
+                "rostock",
+                "sunshine-island"
+            ],
+            "hasty-contacts": [],
+            "arrival": "Connection: Official",
+            "maps-edge": false,
+            "remote": false,
+            "troubled": false,
+            "shrine": "",
+            "ally": "",
+            "caper": "",
+            "opportunities": {
+                "shrine-name": "",
+                "connections-licenses": [
+                    "Official Connection",
+                    "Connection: Underworld",
+                    "Import Licence"
+                ],
+                "spaces": [
+                    "Discrete Office",
+                    "Quiet Warehouse",
+                    "Grand Townhouse",
+                    "Secluded Villa"
+                ],
+                "items": [
+                    "profane-weapon",
+                    "unusual-weapon"
+                ],
+                "times": [
+                    "Dawn",
+                    "Sunset"
+                ],
+                "distractions": {
+                    "hours": [],
+                    "environments": [
+                        "The Sea"
+                    ],
+                    "misc": [],
+                    "legeian": "Mme Matutine"
+                }
+            }
+        },
+        "avignon": {
+            "name": "Avignon",
+            "reached-from": [
+                "algiers",
+                "granada",
+                "munich",
+                "venice"
+            ],
+            "discreet-contacts": [
+                "algiers",
+                "granada",
+                "munich",
+                "venice"
+            ],
+            "hasty-contacts": [],
+            "arrival": "Giorgiou, the Smuggler",
+            "maps-edge": false,
+            "remote": false,
+            "troubled": false,
+            "shrine": "",
+            "ally": "Giorgiou, the Smuggler",
+            "caper": "Chateau Tarascon",
+            "opportunities": {
+                "shrine-name": "",
+                "connections-licenses": [
+                    "Official Connection",
+                    "Connection: Underworld",
+                    "Medical Credentials"
+                ],
+                "spaces": [
+                    "Discrete Office",
+                    "Quiet Warehouse",
+                    "Grand Townhouse",
+                    "Secluded Villa"
+                ],
+                "items": [
+                    "red-temptation",
+                    "antique-guitar",
+                    "profane-weapon"
+                ],
+                "times": [
+                    "Sunset",
+                    "Dawn"
+                ],
+                "distractions": {
+                    "hours": [],
+                    "environments": [],
+                    "misc": []
+                }
+            }
+        },
+        "baghdad": {
+            "name": "Baghdad",
+            "reached-from": [
+                "istanbul",
+                "meshad",
+                "tiflis"
+            ],
+            "discreet-contacts": [
+                "alexandria",
+                "istanbul",
+                "meshad",
+                "tiflis",
+                "hermitage-of-the-scythe"
+            ],
+            "hasty-contacts": [
+                "alexandria",
+                "istanbul",
+                "meshad",
+                "tiflis",
+                "hermitage-of-the-scythe"
+            ],
+            "arrival": [
+                "Connection: Official",
+                "Althiban Abyss"
+            ],
+            "maps-edge": false,
+            "remote": false,
+            "troubled": true,
+            "shrine": "",
+            "ally": "",
+            "caper": "Althiban Abyss",
+            "opportunities": {
+                "shrine-name": "",
+                "connections-licenses": [
+                    "Official Connection",
+                    "Connection: Underworld",
+                    "Connection: Radicals",
+                    "Connection: Ruler",
+                    "Connection: Holy Man",
+                    "Medical Credentials"
+                ],
+                "spaces": [
+                    "Discrete Office",
+                    "Quiet Warehouse"
+                ],
+                "items": [
+                    "dangerous-substance",
+                    "profane-weapon"
+                ],
+                "times": [
+                    "Dawn"
+                ],
+                "distractions": {
+                    "hours": [],
+                    "environments": [
+                        "Trembling Heat"
+                    ],
+                    "misc": [
+                        "Faith"
+                    ]
+                }
+            }
+        },
+        "budapest": {
+            "name": "Budapest",
+            "reached-from": [
+                "cluj-napoca",
+                "krakow",
+                "tirana",
+                "venice"
+            ],
+            "discreet-contacts": [
+                "cluj-napoca",
+                "krakow",
+                "tirana",
+                "venice"
+            ],
+            "hasty-contacts": [],
+            "arrival": "Connection: Underworld",
+            "maps-edge": false,
+            "remote": false,
+            "troubled": false,
+            "shrine": "",
+            "ally": "",
+            "caper": "",
+            "opportunities": {
+                "shrine-name": "",
+                "connections-licenses": [
+                    "Official Connection",
+                    "Connection: Underworld",
+                    "Medical Credentials"
+                ],
+                "spaces": [
+                    "Discrete Office",
+                    "Quiet Warehouse",
+                    "Grand Townhouse",
+                    "Secluded Villa"
+                ],
+                "items": [
+                    "red-temptation",
+                    "profane-weapon"
+                ],
+                "times": [
+                    "night",
+                    "Dawn"
+                ],
+                "distractions": {
+                    "hours": [],
+                    "environments": [],
+                    "misc": [],
+                    "legeian": "What-Is-Not-Seen"
+                }
+            }
+        },
+        "candia-heraklion": {
+            "name": "Candia-Heraklion",
+            "reached-from": [
+                "alexandria",
+                "tirana",
+                "tripoli"
+            ],
+            "discreet-contacts": [
+                "alexandria",
+                "tirana",
+                "tripoli",
+                "hermitage-of-the-scythe"
+            ],
+            "hasty-contacts": [],
+            "arrival": [
+                "The Horned-Axe's Shadow",
+                "Obscurity"
+            ],
+            "maps-edge": false,
+            "remote": true,
+            "troubled": false,
+            "shrine": "colonel",
+            "ally": "",
+            "caper": "",
+            "opportunities": {
+                "shrine-name": "Roadside Shrine to an Iron Saint",
+                "connections-licenses": [
+                    "Official Connection",
+                    "Connection: Underworld",
+                    "Import Licence"
+                ],
+                "spaces": [
+                    "Discrete Office",
+                    "Grand Townhouse",
+                    "Secluded Villa",
+                    "Quiet Warehouse"
+                ],
+                "items": [
+                    "crudely-carved-image",
+                    "profane-weapon"
+                ],
+                "times": [
+                    "Dawn"
+                ],
+                "distractions": {
+                    "hours": [
+                        "The Horned-Axe's Shadow"
+                    ],
+                    "environments": [
+                        "Trembling Heat",
+                        "The Sea"
+                    ],
+                    "misc": [
+                        "Heights"
+                    ]
+                }
+            }
+        },
+        "cluj-napoca": {
+            "name": "Cluj-Napoca",
+            "reached-from": [
+                "budapest",
+                "istanbul",
+                "kyiv",
+                "tiflis"
+            ],
+            "discreet-contacts": [
+                "budapest",
+                "istanbul",
+                "kyiv",
+                "tiflis"
+            ],
+            "hasty-contacts": [],
+            "arrival": "Connection: Underworld",
+            "maps-edge": false,
+            "remote": false,
+            "troubled": false,
+            "shrine": "",
+            "ally": "",
+            "caper": "",
+            "opportunities": {
+                "shrine-name": "",
+                "connections-licenses": [
+                    "Official Connection",
+                    "Connection: Underworld",
+                    "Connection: Ruler",
+                    "Medical Credentials"
+                ],
+                "spaces": [
+                    "Discrete Office",
+                    "Quiet Warehouse",
+                    "Grand Townhouse",
+                    "Secluded Villa"
+                ],
+                "items": [
+                    "art-about-finality",
+                    "profane-weapon",
+                    "unusual-weapon"
+                ],
+                "times": [
+                    "Sunset",
+                    "Dawn"
+                ],
+                "distractions": {
+                    "hours": [],
+                    "environments": [],
+                    "misc": [
+                        "Heights"
+                    ]
+                }
+            }
+        },
+        "granada": {
+            "name": "Granada",
+            "reached-from": [
+                "avignon",
+                "marrakech",
+                "strasbourg"
+            ],
+            "discreet-contacts": [
+                "avignon",
+                "marrakech",
+                "strasbourg",
+                "priory-of-captains"
+            ],
+            "hasty-contacts": [],
+            "arrival": "Mireya, the Visionary",
+            "maps-edge": false,
+            "remote": false,
+            "troubled": false,
+            "shrine": "",
+            "ally": "Mireya, the Visionary",
+            "caper": "Duende Night",
+            "opportunities": {
+                "shrine-name": "",
+                "connections-licenses": [
+                    "Official Connection",
+                    "Connection: Underworld",
+                    "Medical Credentials"
+                ],
+                "spaces": [
+                    "Discrete Office",
+                    "Grand Townhouse",
+                    "Quiet Warehouse",
+                    "Secluded Villa"
+                ],
+                "items": [
+                    "crudely-carved-image",
+                    "profane-weapon",
+                    "drinkers-knife"
+                ],
+                "times": [
+                    "Dawn",
+                    "Night"
+                ],
+                "distractions": {
+                    "hours": [
+                        "The Flowermaker's Shadow"
+                    ],
+                    "environments": [
+                        "Trembling Heat"
+                    ],
+                    "misc": [
+                        "Cats",
+                        "Heights"
+                    ]
+                }
+            }
+        },
+        "istanbul": {
+            "name": "Istanbul",
+            "reached-from": [
+                "alexandria",
+                "baghdad",
+                "cluj-napoca"
+            ],
+            "discreet-contacts": [
+                "alexandria",
+                "baghdad",
+                "cluj-napoca",
+                "tirana"
+            ],
+            "hasty-contacts": [
+                "alexandria",
+                "baghdad",
+                "cluj-napoca",
+                "tirana"
+            ],
+            "arrival": "Connection: Radicals",
+            "maps-edge": false,
+            "remote": false,
+            "troubled": true,
+            "shrine": "",
+            "ally": "",
+            "caper": "",
+            "opportunities": {
+                "shrine-name": "",
+                "connections-licenses": [
+                    "Import Licence",
+                    "Connection: Holy Man",
+                    "Official Connection",
+                    "Connection: Radicals",
+                    "Connection: Underworld"
+                ],
+                "spaces": [
+                    "Discrete Office",
+                    "Quiet Warehouse"
+                ],
+                "items": [
+                    "mutilated-manuscript",
+                    "drinkers-knife",
+                    "profane-weapon"
+                ],
+                "times": [
+                    "Dawn",
+                    "Sunset"
+                ],
+                "distractions": {
+                    "hours": [],
+                    "environments": [
+                        "Trembling Heat",
+                        "The Sea"
+                    ],
+                    "misc": [
+                        "Cats",
+                        "Faith",
+                        "Heights"
+                    ]
+                }
+            }
+        },
+        "kaunas": {
+            "name": "Kaunas (Little Paris)",
+            "reached-from": [
+                "krakow",
+                "leningrad",
+                "prague",
+                "rostock"
+            ],
+            "discreet-contacts": [
+                "krakow",
+                "leningrad",
+                "prague",
+                "rostock",
+                "fogfire-point"
+            ],
+            "hasty-contacts": [],
+            "arrival": "Dominykas, the Baker",
+            "maps-edge": false,
+            "remote": false,
+            "troubled": false,
+            "shrine": "",
+            "ally": "Dominykas, the Baker",
+            "caper": "tk",
+            "opportunities": {
+                "shrine-name": "",
+                "connections-licenses": [
+                    "Official Connection",
+                    "Connection: Underworld",
+                    "Connection: Ruler",
+                    "Connection: Holy Man",
+                    "Medical Credentials"
+                ],
+                "spaces": [
+                    "Discrete Office",
+                    "Quiet Warehouse",
+                    "Grand Townhouse",
+                    "Secluded Villa"
+                ],
+                "items": [
+                    "dangerous-substance",
+                    "profane-weapon"
+                ],
+                "times": [
+                    "Night",
+                    "Dawn"
+                ],
+                "distractions": {
+                    "hours": [
+                        "The Wolf Divided's Shadow"
+                    ],
+                    "environments": [
+                        "Freezing Winds"
+                    ],
+                    "misc": [
+                        "Faith"
+                    ]
+                }
+            }
+        },
+        "kyiv": {
+            "name": "Kyiv",
+            "reached-from": [
+                "cluj-napoca",
+                "krakow",
+                "leningrad",
+                "stalingrad"
+            ],
+            "discreet-contacts": [
+                "cluj-napoca",
+                "krakow",
+                "leningrad",
+                "stalingrad"
+            ],
+            "hasty-contacts": [
+                "cluj-napoca",
+                "krakow",
+                "leningrad",
+                "stalingrad"
+            ],
+            "arrival": "Our Lady of Wires",
+            "maps-edge": false,
+            "remote": false,
+            "troubled": true,
+            "shrine": "",
+            "ally": "",
+            "caper": "",
+            "opportunities": {
+                "shrine-name": "",
+                "connections-licenses": [
+                    "Official Connection",
+                    "Connection: Underworld",
+                    "Connection: Radicals",
+                    "Connection: Holy Man",
+                    "Medical Credentials"
+                ],
+                "spaces": [
+                    "Discrete Office",
+                    "Quiet Warehouse"
+                ],
+                "items": [
+                    "profane-weapon",
+                    "menacing-icon"
+                ],
+                "times": [
+                    "Sunset",
+                    "Dawn"
+                ],
+                "distractions": {
+                    "hours": [],
+                    "environments": [],
+                    "misc": [
+                        "Heights",
+                        "Faith"
+                    ],
+                    "legeian": "Our Lady of Wires"
+                }
+            }
+        },
+        "tktktk": {
+            "name": "TKTKTK",
+            "reached-from": [],
+            "discreet-contacts": [],
+            "hasty-contacts": [],
+            "arrival": "TKTKTK",
+            "maps-edge": tk,
+            "remote": tk,
+            "troubled": tk,
+            "shrine": "tk",
+            "ally": "tk",
+            "caper": "tk",
+            "opportunities": {
+                "shrine-name": "TKTKTK",
+                "connections-licenses": [
+                    "TKTKTK"
+                ],
+                "spaces": [
+                    "TKTKTK"
+                ],
+                "items": [
+                    "TKTKTK"
+                ],
+                "times": [
+                    "TKTKTK"
+                ],
+                "distractions": {
+                    "hours": [
+                        "TK"
+                    ],
+                    "environments": [
+                        "TK"
+                    ],
+                    "misc": [
+                        "TK"
+                    ]
+                }
+            }
+        },
+        "tktktk": {
+            "name": "TKTKTK",
+            "reached-from": [],
+            "discreet-contacts": [],
+            "hasty-contacts": [],
+            "arrival": "TKTKTK",
+            "maps-edge": tk,
+            "remote": tk,
+            "troubled": tk,
+            "shrine": "tk",
+            "ally": "tk",
+            "caper": "tk",
+            "opportunities": {
+                "shrine-name": "TKTKTK",
+                "connections-licenses": [
+                    "TKTKTK"
+                ],
+                "spaces": [
+                    "TKTKTK"
+                ],
+                "items": [
+                    "TKTKTK"
+                ],
+                "times": [
+                    "TKTKTK"
+                ],
+                "distractions": {
+                    "hours": [
+                        "TK"
+                    ],
+                    "environments": [
+                        "TK"
+                    ],
+                    "misc": [
+                        "TK"
+                    ]
+                }
+            }
+        }
+    }
+}
